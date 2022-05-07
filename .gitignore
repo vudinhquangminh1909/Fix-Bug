@@ -1,0 +1,6 @@
+# Nó sẽ quy định thằng nào được đẩy nên server
+/node_modules
+/vendor
+/.idea
+.idea/
+.ENV
